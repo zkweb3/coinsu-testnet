@@ -1,0 +1,1 @@
+# coinsu-testnet
